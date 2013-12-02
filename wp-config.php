@@ -19,13 +19,13 @@
 define('DB_NAME', 'wpzii');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'elma');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'wBhDnlWa');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'tunnel.pagodabox.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
