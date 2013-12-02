@@ -65,7 +65,7 @@
                 
                 <div class="container"> <div class="seclay"> 
                 
-             <img src="http://localhost/zii/wp-content/themes/flatco/inglesmerida.png" alt="ingles en merida aprende en english campus">
+             <img src="http://english-campus.gopagoda.com/wp-content/themes/flatco/inglesmerida.png" alt="ingles en merida aprende en english campus">
                     <ul class="tw-social-icon pull-right">
                                 <?php tw_social(); ?>
                             </ul> 
