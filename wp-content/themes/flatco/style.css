@@ -43,6 +43,20 @@ z-index: 300;
 font-size: 19px;
 line-height: 140%;
 }
+.shadow{
+font-size:40px;
+	text-shadow: 2px 2px 0 #696969, 4px 4px 0 #3F3F3F;
+font-weight: 700;
+line-height: 1.1;	
+	}
+.title {
+width: 70%;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+padding-bottom: 50px;
+padding-top: 50px;
+}
 .title h1{
 	font-size:60px;
 	text-shadow: 2px 2px 0 #696969, 4px 4px 0 #3F3F3F;
@@ -59,7 +73,7 @@ height: 2px;
 
 background-color:#099;
  background-image:    url("assets/img/bgl.jpg");
-height:321px;	
+
 	}
 .seclay{
 position: relative;
